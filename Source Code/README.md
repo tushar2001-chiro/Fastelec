@@ -1,13 +1,11 @@
-# E-Creamery
+# FastElec
 
-This is a ice-cream and milkshakes ordering website which provides seperate access to both customers AND managers of a restaurant. 
+A website that allows the user to pay bills for the cars registered under his username; specifically, the electricity bills for using the electricity to charge the electric/hybrid cars using Supercharger. 
 
 Features:
 
 - Login/SignUp 
 
-- Cart (adding multiple items in the cart)
+- Register Cars under the Username.
 
-- Payment (Only COD) (generating unique payment id randomly)
-
-- Adding multiple restaurants (One manager , one Restaurant but we can have many restaurants as possible)
+- Payment (generating unique payment id randomly
